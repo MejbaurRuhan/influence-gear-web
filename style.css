@@ -1,0 +1,156 @@
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+.nav{
+  
+  width: 100%;
+  padding-top: 87px;
+  display: flex;
+  justify-content: space-between;
+}
+.logo{
+  margin-left: 120px;
+  color: #3A3A3A;
+  font-feature-settings: 'clig' off, 'liga' off;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+a{
+  padding-left: 34px;
+  color: #3A3A3A;
+  font-feature-settings: 'clig' off, 'liga' off;
+  font-family: poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.menu{
+  margin-right: 430px;
+  
+}
+.banner{
+  display: flex;
+  
+  
+
+}
+.content{
+  margin-top: 145px;
+  margin-left: 130px;
+  
+  width: px;
+  height: 280px;
+}
+.banner-title{
+  color: #3A3A3A;
+  font-feature-settings: 'clig' off, 'liga' off;
+  font-family: Poppins;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 70px; /* 134.615% */
+  margin-bottom: 16px;
+}
+.para-1{
+  color: #3A3A3A;
+  font-feature-settings: 'clig' off, 'liga' off;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 16px;
+}
+.b-btn{
+  color: #FFF;
+  padding: 10px 24px;
+  gap: 8px;
+  border-radius: 41px;
+  background: #E02C6D;
+  border: 0;
+  
+}
+.imge{
+  margin-top: 50px;
+  position: relative;
+  right: 5%;
+  
+  
+}
+.main-imge{
+  position: relative;
+  left: 50%;
+  width: 440px;
+  /* height: 414px; */
+  bottom: 20px;
+
+}
+.icon-sec{
+  margin-top: 70px;
+  display: flex;
+  margin-left: 227px;
+  border-bottom:1px solid rgba(194, 194, 247, 0.733);
+  padding: 35px 0px;
+  border-top:1px solid rgba(194, 194, 247, 0.733);
+  width: 59%;
+  
+}
+.logo-sec{
+  padding-left: 60px;
+
+}
+.revew{
+  display: flex;
+}
+.box1{
+  margin-top: 200px;
+  width: 329px;
+  height: 439px;
+  box-shadow: rgb(88, 88, 88) 2px 2px 3px 3px  ;
+  border-radius: 15px;
+  margin-left: 300px;
+  padding-top: 14px;
+  padding-left: 14px;
+  margin-bottom: 40px;
+}
+.box-tit{
+  color: var(--Text-Gray-900, #18191F);
+  font-feature-settings: 'liga' off;
+  font-family: Poppins;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 40px; /* 142.857% */
+}
+h3{
+  color: var(--Dark-Color, rgba(0, 0, 0, 0.87));
+  font-family: poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 36px */
+  }
+  h5{
+  color: var(--gray-80, #5E6366);
+  font-family: poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 22px; /* 157.143% */
+  letter-spacing: 0.1px;
+  }
+  h4{
+  color: var(--gray-80, #5E6366);
+  font-family: poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 22px; /* 157.143% */
+  letter-spacing: 0.1px;
+  }
